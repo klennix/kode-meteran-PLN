@@ -1,0 +1,16 @@
+1,00,Restart
+2,03,Total kWh terpakai
+3,07,Batas kWh
+4,09,Daya yang digunakan saat ini
+5,41,Voltase
+6,44,Ampere
+7,47,Daya terpakai
+8,54,Kode token terakhir
+9,59,Jumlah kWh pengisian terakhir
+10,69,Berapa kali padam
+11,75,Meter ID
+12,79,Batas minimal alarm (kWh)
+13,456xx,Ubah batas minimal alarm (kWh)
+14,78,Delay alarm (menit)
+15,123xx,Ubah delay alarm (menit)
+16,90,Matikan lampu LED
