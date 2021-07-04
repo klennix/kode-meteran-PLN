@@ -1,0 +1,17 @@
+No,Kode,Keterangan
+1,00,Restart
+2,01,Fungsi relay
+3,03,Sisa kWh
+4,07,Batas daya
+5,09,Daya dipakai saat ini
+6,37,Sisa kredit kWh
+7,38,Stand kWh
+8,59,Pemakaian 1 bulan lalu
+9,60,Pemakaian 2 bulan lalu
+10,61,Pemakaian 3 bulan lalu
+11,69,Jumlah padam
+12,71,Energi dibagi
+13,75,Nomor seri meter kWh
+14,76,Konstanta meter pulsa/kWh
+15,81,Waktu pengisian terakhir
+16,90,Jumlah meteran tukar nyala
